@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421536814836",
+    "project_id": "appdev-ee61a",
+    "storage_bucket": "appdev-ee61a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421536814836:android:24b80ff238759ac474b0a1",
+        "android_client_info": {
+          "package_name": "id.ac.petra.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvko19EuMLLRZ2u_X3rXdGAefHr9MtieA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
